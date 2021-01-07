@@ -34,8 +34,8 @@ Why Statistics and Probability?
 Data science and machine learning are essentially a modern version of statistics. By learning statistics first, you’ll have a much easier time when it comes to learning machine learning concepts and algorithms! Even though it may seem like you’re not getting anything tangible out of the first few weeks, it will be worth it in the later weeks.
 
 ### Week 1: Descriptive Statistics
-* [*] [Intro to Descriptive Statistics](https://towardsdatascience.com/descriptive-statistics-f2beeaf7a8df)
-* [*] [Another Intro to Descriptive Statistics](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)
+* [x] [Intro to Descriptive Statistics](https://towardsdatascience.com/descriptive-statistics-f2beeaf7a8df)
+* [x] [Another Intro to Descriptive Statistics](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)
 
 ### Week 2: Probability
 * [ ] [Theoretical probability](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability)
