@@ -99,7 +99,7 @@ In order to understand cost functions, you need to know differential calculus. I
 ### Week 11: Integrals
 * [ ] [Approximation with Riemann Sums](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-riemann-sums/v/simple-riemann-approximation-using-rectangles)
 * [ ] [Definite Integrals with Riemann Sums](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-definite-integral-definition/v/riemann-sums-and-integrals)
-* [ ] [The Fundamental Theorem of Calculus and Accumulation Functions](The Fundamental Theorem of Calculus and Accumulation Functions)
+* [ ] [The Fundamental Theorem of Calculus and Accumulation Functions](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-ftc-part-1/v/fundamental-theorem-of-calculus)
 * [ ] [Properties of Definite Integrals](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-integral-prop/v/negative-definite-integrals)
 
 ### Week 12: Integrals Part 2!
