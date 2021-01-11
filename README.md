@@ -38,9 +38,9 @@ Data science and machine learning are essentially a modern version of statistics
 * [x] [Another Intro to Descriptive Statistics](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)
 
 ### Week 2: Probability
-* [ ] [Theoretical probability](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability)
-* [ ] [Sample spaces](https://www.khanacademy.org/math/statistics-probability/probability-library/probability-sample-spaces/v/events-and-outcomes-3)
-* [ ] [Set operations](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets)
+* [x] [Theoretical probability](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability)
+* [x] [Sample spaces](https://www.khanacademy.org/math/statistics-probability/probability-library/probability-sample-spaces/v/events-and-outcomes-3)
+* [x] [Set operations](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets)
 * [ ] [Addition rule](https://www.khanacademy.org/math/statistics-probability/probability-library/addition-rule-lib/v/probability-with-playing-cards-and-venn-diagrams)
 * [ ] [Multiplication rule for independent events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-independent/v/compound-sample-spaces)
 * [ ] [Multiplication rule for dependent events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-dependent/v/introduction-to-dependent-probability)
