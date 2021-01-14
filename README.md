@@ -42,9 +42,9 @@ Data science and machine learning are essentially a modern version of statistics
 * [x] [Sample spaces](https://www.khanacademy.org/math/statistics-probability/probability-library/probability-sample-spaces/v/events-and-outcomes-3)
 * [x] [Set operations](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets)
 * [x] [Addition rule](https://www.khanacademy.org/math/statistics-probability/probability-library/addition-rule-lib/v/probability-with-playing-cards-and-venn-diagrams)
-* [ ] [Multiplication rule for independent events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-independent/v/compound-sample-spaces)
-* [ ] [Multiplication rule for dependent events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-dependent/v/introduction-to-dependent-probability)
-* [ ] [Conditional probability and independence](https://www.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/v/calculating-conditional-probability)
+* [x] [Multiplication rule for independent events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-independent/v/compound-sample-spaces)
+* [x] [Multiplication rule for dependent events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-dependent/v/introduction-to-dependent-probability)
+* [x] [Conditional probability and independence](https://www.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/v/calculating-conditional-probability)
 
 ### Week 3: Combinations and Permutations
 * [ ] [Counting principle and factorial](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/counting-principle-factorial/v/tree-diagram-to-count-outcomes)
