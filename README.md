@@ -47,10 +47,10 @@ Data science and machine learning are essentially a modern version of statistics
 * [x] [Conditional probability and independence](https://www.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/v/calculating-conditional-probability)
 
 ### Week 3: Combinations and Permutations
-* [ ] [Counting principle and factorial](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/counting-principle-factorial/v/tree-diagram-to-count-outcomes)
-* [ ] [Permutations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/permutation-lib/v/permutation-formula)
-* [ ] [Combinations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/v/introduction-to-combinations)
-* [ ] [Combinatorics](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability/v/probability-using-combinations)
+* [x] [Counting principle and factorial](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/counting-principle-factorial/v/tree-diagram-to-count-outcomes)
+* [x] [Permutations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/permutation-lib/v/permutation-formula)
+* [x] [Combinations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/v/introduction-to-combinations)
+* [x] [Combinatorics](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability/v/probability-using-combinations)
 
 ### Week 4: Normal Distribution and Sampling Distributions
 * [ ] [Normal distribution and the Empirical rule](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-normal-distribution-problems-qualitative-sense-of-normal-distributions)
